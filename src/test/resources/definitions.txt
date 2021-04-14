@@ -1,0 +1,5 @@
+# days of week (1-7) | from time | to time | window title pattern | action (not used at the moment)
+
+1,2,3  | 07:00 | 13:00 | .*test123.* | close
+7      | 00:00 | 07:45 | .* | close
+2,4,7  | 21:00 | 23:59 | EXACT | close
